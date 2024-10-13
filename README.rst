@@ -1,24 +1,9 @@
-sysadmin
-Source of references for Sysadmin tasks
+Project content
+================
 
---------
-
-Repo contains the list of resources and references for making sysadmin job.
-
-Contents
-========
-
-.. toctree::
-   :maxdepth: 4
-   :caption: Table of Contents
-
-   glossary/glossaries_list
-   reading-list/reading_list
+#. `reading_list <https://github.com/ooge0/sysadmin/blob/master/reading-list/reading_list.rst>`_
+#. `glossaries_list <https://github.com/ooge0/sysadmin/blob/master/glossary/glossaries_list.rst>`_
 
 Project Overview
 ----------------
-Provide an overview of the project here.
-
-More Information
-----------------
-Add any other necessary information or sections here.
+Repo contains the list of resources and references for making sysadmin job.
